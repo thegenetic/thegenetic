@@ -7,6 +7,7 @@ Hello, I'm a Software Engineer with a passion for innovation and a knack for met
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thegenetic.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-paul-b0815b1b0//)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22627552/dipesh-paul)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DipeshPaul19)
 
 
