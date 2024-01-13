@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Hello, I'm a Software Engineer with a passion for innovation and a knack for meticulous problem-solving. My journey in the world of technology has been marked by technical creativity and a relentless pursuit of excellence.
+Hello, I'm a cyber security professional transitioning from a software engineer with a passion for innovation and a knack for meticulous problem-solving. My journey in the world of technology has been marked by technical creativity and a relentless pursuit of excellence.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thegenetic.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-paul-b0815b1b0//)
