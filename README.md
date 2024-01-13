@@ -13,12 +13,13 @@ Hello, I'm a cyber security professional transitioning from a software engineer 
 
 ## 🛠 Skills
 Javascript, HTML, CSS, OOP, Python, Java, C++, Machine Learning, NLP, PHP, Laravel, React, Node.js, MongoDB, Flask, Django, RestAPI
+IAM, AWS, Azure, GCP, Nessus, Networking, SIEM tools, Burpsuite, Proxys, 
 
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...: Developing an Affiliate Website which would contain all the highly rated and reviewed products on sites like Amazon, Flipkart, Myntra, etc.
 
-🧠 I'm currently learning...: Natural Language Processing techniques and diving deeper into cloud computing.
+🧠 I'm currently learning...: Cyber secuirty principles, Natural Language Processing techniques and diving deeper into cloud computing.
 
 👯‍♀️ I'm looking to collaborate on...: Open-source projects related to data visualization or Laravel.
 
