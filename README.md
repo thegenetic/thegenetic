@@ -1,34 +1,57 @@
+# Hi, I'm Dipesh Paul! 👨💻 🔒
 
-# Hi, I'm Dipesh Paul! 👋
+### **Security Engineer | DevSecOps Advocate | Red Team Enthusiast**
 
+---
 
 ## 🚀 About Me
-Hello, I'm a cyber security professional transitioning from a software engineer with a passion for innovation and a knack for meticulous problem-solving. My journey in the world of technology has been marked by technical creativity and a relentless pursuit of excellence.
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thegenetic.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-paul-b0815b1b0//)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/22627552/dipesh-paul)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DipeshPaul19)
+I’m a **Security Analyst** at Deloitte with a **2+ year** hybrid background in full-stack development and offensive security. My mission: **bridging development and security** to build resilient systems.  
+- 🏆 Recognized with Deloitte’s *“Move the Dot” Award* for uncovering 40+ critical vulnerabilities in red team engagements.  
+- 💡 Built custom tools (Python/Shell) to automate workflows, achieving **45% efficiency gains**.  
+- 🔭 Passionate about **DevSecOps**, threat intelligence, and mentoring teams to adopt secure-by-design practices.  
 
+---
 
-## 🛠 Skills
-Javascript, HTML, CSS, OOP, Python, Java, C++, Machine Learning, NLP, PHP, Laravel, React, Node.js, MongoDB, Flask, Django, RestAPI
-IAM, AWS, Azure, GCP, Nessus, Networking, SIEM tools, Burpsuite, Proxys, 
+## 🔗 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thegenetic.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-genetic/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DipeshPaul19)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pauldipesh29) 
 
+---
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...: Developing an Affiliate Website which would contain all the highly rated and reviewed products on sites like Amazon, Flipkart, Myntra, etc.
+## 🛠️ Technical Arsenal
 
-🧠 I'm currently learning...: Cyber secuirty principles, Natural Language Processing techniques and diving deeper into cloud computing.
+### **Cybersecurity**
+`Penetration Testing` `Red Teaming` `Vulnerability Assessment` `SIEM (Azure Sentinel)` `Burp Suite` `Metasploit` `Nmap` `OWASP Top 10`  
 
-👯‍♀️ I'm looking to collaborate on...: Open-source projects related to data visualization or Laravel.
+### **Dev & Automation**
+`Python` `JavaScript` `PHP` `Shell Scripting` `Laravel` `React` `Git` `CI/CD`  
 
-🤔 I'm looking for help with...: Laravel Livewire Query Strings for adding filtering functionality on an ecommerce site.
+### **Cloud & Infrastructure**
+`Azure` `AWS` `Docker` `Linux/Windows Internals`  
 
-💬 Ask me about...: Best practices in software design and development.
+### **Currently Exploring**
+`Kubernetes Security` `Cloud-Native Threat Hunting` `OSCP Certification`
 
-📫 How to reach me...: You can reach out to me via email at pauldipesh29@email.com.
+---
 
-😄 Pronouns...: He/Him
+## 🔥 Featured Projects
 
-⚡️ Fun fact...: I thrive on collaborating with brilliant minds from every corner of the globe to take on complex challenges and mold the future of technology. Let's turn our combined intelligence into a force for change! 🌍💡
+### [🔒 Red Team Logging Framework]([https://github.com/yourprofile/repo-link](https://www.linkedin.com/posts/the-genetic_redteaming-cybersecurity-sysmon-activity-7221948274784550912-qSCA?utm_source=share&utm_medium=member_desktop))
+- Automated log collection using **Elastic Stack**, achieving **95% detection accuracy**.
+- Deployed Sysmon on Linux servers, boosting logging coverage by **80%**.
+
+### [⌨️ Keylogger Sandbox Analysis]
+- Built a Python-based keylogger for malware behavior research and stealth logging.
+
+---
+
+## 💬 Let’s Collaborate!
+- 👨💻 **I’m looking to collaborate on**: Open-source security tools, DevSecOps pipelines, or CTF teams.  
+- 🤝 **I’m looking for help with**: Advanced threat detection in Kubernetes environments.  
+- 📫 **Reach me**: [pauldipesh29@gmail.com](mailto:pauldipesh29@gmail.com) | [LinkedIn Messages](https://www.linkedin.com/in/the-genetic/)  
+
+---
+
+⚡ **Fun Fact**: When I’m not dissecting malware, I’m probably experimenting with AI-driven threat simulations or mentoring aspiring hackers!  
